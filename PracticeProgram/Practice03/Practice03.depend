@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1572944676 source:/Users/meng/Documents/PracticeProgram/Practice03/main.c
+	<stdio.h>
+	<stdlib.h>
+	"head1.h"
+
+1572944219 /Users/meng/Documents/PracticeProgram/Practice03/head1.h
+
+1572944921 source:/Users/meng/Documents/PracticeProgram/Practice03/head1.c
+	<stdio.h>
+	"head1.h"
+

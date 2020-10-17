@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1577871879 source:c:\users\meylis\desktop\telephone number validator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1577879807 
+
+1577879807 source:c:\users\meylis\desktop\telephone number validator\header.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"header.h"
+
+1576923920 c:\users\meylis\desktop\telephone number validator\header.h
+
+1578299489 source:/media/meylis/F200AD5700AD2417/Telephone Number Validator/header.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"header.h"
+
+1578299426 /media/meylis/F200AD5700AD2417/Telephone Number Validator/header.h
+
+1578298874 source:/media/meylis/F200AD5700AD2417/Telephone Number Validator/main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1578298874 source:/media/meylis/F200AD5700AD2417/Telephone Number Validator (copy)/main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1578301534 /media/meylis/F200AD5700AD2417/Telephone Number Validator (copy)/header.h
+
+1578301395 source:/media/meylis/F200AD5700AD2417/Telephone Number Validator (copy)/header.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"header.h"
+

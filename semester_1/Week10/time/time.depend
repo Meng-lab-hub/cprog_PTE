@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1572951614 source:/Users/meng/Documents/Programming1/time/main.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+
+1572951550 /Users/meng/Documents/Programming1/time/time.h
+
+1572952885 source:/Users/meng/Documents/Programming1/time/time.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"time.h"
+

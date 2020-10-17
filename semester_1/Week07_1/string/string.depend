@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1571135219 source:/Users/meng/Documents/Programming1/Week07_1/string/main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1571136258 source:/Users/meng/Documents/Programming1/Week07_1/string/str.c
+	<stdlib.h>
+	"str.h"
+
+1571136258 /Users/meng/Documents/Programming1/Week07_1/string/str.h
+

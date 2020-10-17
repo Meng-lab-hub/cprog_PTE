@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1569323572 source:d:\dökümanlar\belgeler\okul\programming 1\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculator.h"
+
+1569323896 r.h"
+
+1569323302 d:\dökümanlar\belgeler\okul\programming 1\calculator\calculator.h
+
+1569323896 source:d:\dökümanlar\belgeler\okul\programming 1\calculator\calculator.c
+	<stdio.h>
+	"calculator.h"
+
+1569925864 source:/Users/meng/Documents/Programming1/Week04/calculator/calculator.c
+	<stdio.h>
+	<stdlib.h>
+	"calculator.h"
+
+1569319702 /Users/meng/Documents/Programming1/Week04/calculator/calculator.h
+
+1569923796 source:/Users/meng/Documents/Programming1/Week04/calculator/main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculator.h"
+

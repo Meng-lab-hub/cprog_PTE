@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1570529969 source:/Users/meng/Documents/Programming1/Week06/Week06/main.c
+	<stdio.h>
+	<stdlib.h>
+	"op.h"
+
+1570527634 /Users/meng/Documents/Programming1/Week06/Week06/op,h
+
+1570529743 source:/Users/meng/Documents/Programming1/Week06/Week06/op.C
+	<stdio.h>
+	"op.h"
+
+1570529885 /Users/meng/Documents/Programming1/Week06/Week06/op.h
+
+1570529743 source:/Users/meng/Documents/Programming1/week62/op.C
+	<stdio.h>
+	"op.h"
+
+1570529885 /Users/meng/Documents/Programming1/week62/op.h
+
+1570530294 source:/Users/meng/Documents/Programming1/week62/main.c
+	<stdio.h>
+	<stdlib.h>
+	"op.h"
+
+1570530532 source:/Users/meng/Documents/Programming1/week62/op.c
+	<stdio.h>
+	"op.h"
+
+1570530294 source:/Users/meng/Documents/Programming1/week6/main.c
+	<stdio.h>
+	<stdlib.h>
+	"op.h"
+
+1570529885 /Users/meng/Documents/Programming1/week6/op.h
+
+1570530532 source:/Users/meng/Documents/Programming1/week6/op.c
+	<stdio.h>
+	"op.h"
+
+1570530294 source:/Users/meng/Documents/Programming1/Week06/main.c
+	<stdio.h>
+	<stdlib.h>
+	"op.h"
+
+1572895339 /Users/meng/Documents/Programming1/Week06/op.h
+
+1570530532 source:/Users/meng/Documents/Programming1/Week06/op.c
+	<stdio.h>
+	"op.h"
+

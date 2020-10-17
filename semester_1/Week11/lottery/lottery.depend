@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1573558567 source:/Users/meng/Documents/Programming1/Week11/lottery/lottery.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"lottery.h"
+
+1573558558 /Users/meng/Documents/Programming1/Week11/lottery/lottery.h
+
+1573558558 source:/Users/meng/Documents/Programming1/Week11/lottery/main.c
+	<stdio.h>
+	<stdlib.h>
+	"lottery.h"
+

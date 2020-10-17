@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1571736405 source:c:\users\youssef hossam\music\i2ptja.pte\cat4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+
+1571738345 
+
+1571736490 c:\users\youssef hossam\music\i2ptja.pte\cat4\file.h
+
+1571738345 source:c:\users\youssef hossam\music\i2ptja.pte\cat4\file.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+	"file.h"
+
+1571830677 source:/Users/meng/Documents/Programming1/Week08/main.c
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+
+1571830674 /Users/meng/Documents/Programming1/Week08/file.h
+
+1572894449 source:/Users/meng/Documents/Programming1/Week08/file.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+	"file.h"
+

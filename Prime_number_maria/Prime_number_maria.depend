@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576593502 source:/Users/meng/Documents/Programming1/Prime_number_maria/main.c
+	<stdio.h>
+	<stdlib.h>
+

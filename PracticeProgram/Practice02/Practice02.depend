@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575121967 source:/Users/meng/Documents/PracticeProgram/Practice02/main.c
+	<stdio.h>
+	<stdlib.h>
+

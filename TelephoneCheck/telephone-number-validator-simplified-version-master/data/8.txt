@@ -1,0 +1,8 @@
+829,Dominican Republic,
+850,North Korea,
+852,Hong Kong,
+853,Macau,
+855,Cambodia,
+856,Laos,
+880,Bangladesh,
+886,Taiwan,

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1571132796 source:/Users/meng/Documents/Programming1/Week07/main.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+
+1571131723 /Users/meng/Documents/Programming1/Week07/util.h
+
+1571133244 source:/Users/meng/Documents/Programming1/Week07/util.c
+	<stdlib.h>
+	"util.h"
+
